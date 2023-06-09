@@ -1,6 +1,6 @@
 # source-file-transformer
 
-As the project description suggest, a simple tool to change source file versions of class-files inside a jar to a given
+As the project description suggests, a simple tool to change source file versions of class-files inside a jar to a given
 version through ASM.
 
 ## Arguments
